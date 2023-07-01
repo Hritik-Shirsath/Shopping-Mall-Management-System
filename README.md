@@ -36,6 +36,7 @@ To run the project locally, follow these steps:
 ## Usage
 To start the development server and view the application, run:
 - npm start
+
 The application will be accessible at http://localhost:3000/ in your web browser.
 
 ## Technologies
